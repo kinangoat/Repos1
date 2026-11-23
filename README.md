@@ -1,6 +1,6 @@
 # Dayline
 
-A minimalist, dark-mode iPad app for deadlines and events, laid out as a list by day instead of a calendar grid.
+A minimalist iPad app for deadlines and events: silver-on-black aurora, a time-of-day greeting screen, and a list by day instead of a calendar grid. Items are colour-coded by subject (Econ, Bio, English, French, Maths, Philosophy, plus Sport, Social, Personal).
 
 ## Install on iPad (no Mac needed)
 1. Open the app URL in **Safari** (see "Hosting" below).
@@ -13,7 +13,7 @@ A minimalist, dark-mode iPad app for deadlines and events, laid out as a list by
   - `Dinner at Sam's fri` → one-off, tagged Social
   - `Tutoring every mon` or `Gym mondays` → repeats weekly
   - Dates: `today`, `tomorrow`, `next fri`, `12 dec`, `12/12` (day/month), `in 3 days`, `next week`
-  - Force a tag with `#sport`, `#school` etc.
+  - Subjects are detected from words like econ, phil, maths/tutoring, bio/lab, french, english/paper 1, liverpool, dinner. Force one with `#econ`, `#sport` etc.
   - Tap **+** with an empty bar to open the full form.
 - **Tap the circle** to mark done. **Swipe right** = done. **Swipe left** = push to tomorrow (overdue → today, weekly → skip this week).
 - **Tap an item** to edit. **Tap a day** in the week strip to jump to it, or to add something on an empty day.
